@@ -1,0 +1,23 @@
+body{
+    background: linear-gradient(90deg, rgb(242, 161, 110), rgb(226, 51, 188));
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.card{
+    width: 450px;
+    height: 450px;
+    border-radius: 50px;
+    background-color: blanchedalmond;
+    box-shadow: 0px 0px 40px 20px; color: rgb(156, 53, 161);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+img{
+    width: 300px;
+    height: 250px;
+    border-radius: 90px;
+}
